@@ -51,19 +51,6 @@ I build **production-ready AI systems**, **full mobile apps from Figma to Play S
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saif67&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saif67&theme=radical&hide_border=true" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif67&layout=compact&theme=radical&hide_border=true" width="60%" />
-</div>
-
----
-
 ### 🤝 Let's Connect & Build
 
 Actively looking for **Online Jobs** or **Freelance AI/Mobile projects**.
