@@ -41,7 +41,7 @@ I build **production-ready AI systems**, **full mobile apps from Figma to Play S
 ### 💼 Experience & Education
 
 **Software Engineer (Data Science & AI)** — Part Time  
-*Lancers | Rawalpindi | 1.5+ years* * Built & deployed Python backends with Docker + CI/CD.
+*Lancers | Rawalpindi | 3+ years* * Built & deployed Python backends with Docker + CI/CD.
 * Delivered multiple client AI models and full mobile applications.
 * Designed prototypes in Figma and worked in agile teams.
 
